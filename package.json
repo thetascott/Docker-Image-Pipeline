@@ -1,0 +1,19 @@
+{
+  "name": "server-apn",
+  "version": "1.0.0",
+  "description": "Send push notifications to Apple devices",
+  "main": "server-apn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@parse/node-apn": "^6.4.2",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "request": "^2.88.2",
+    "util": "^0.12.5",
+    "winston": "^3.17.0"
+  }
+}
