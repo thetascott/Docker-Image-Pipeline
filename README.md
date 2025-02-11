@@ -12,8 +12,6 @@ This project automates the building and pushing of a Docker image to both **Dock
 ## 🔧 Setup Instructions
 
 ### **1️⃣ Prerequisites**
-- [Docker](https://docs.docker.com/get-docker/) installed
-- [AWS CLI](https://aws.amazon.com/cli/) configured
 - A **Docker Hub account** 
 - An **AWS ECR repository**
 
