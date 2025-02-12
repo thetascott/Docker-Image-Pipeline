@@ -1,4 +1,4 @@
-# 🚀 Docker Image CI/CD Pipeline
+# 🚀 Docker Build & Deployment Automation 
 
 This project automates the building and pushing of a Docker image to both **Docker Hub** and **AWS Elastic Container Registry (ECR)** using **GitHub Actions**.
 
